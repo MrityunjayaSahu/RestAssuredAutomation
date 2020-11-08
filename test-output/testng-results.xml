@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9814" started-at="2020-11-01T23:15:06 IST" finished-at="2020-11-01T23:15:16 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9814" started-at="2020-11-01T23:15:06 IST" finished-at="2020-11-01T23:15:16 IST">
+      <class name="com.reqresAPI.RestAssuredAutomation.GetSingleUserDetails">
+        <test-method status="PASS" signature="verifyGetSingleUser()[pri:0, instance:com.reqresAPI.RestAssuredAutomation.GetSingleUserDetails@27a5f880]" name="verifyGetSingleUser" duration-ms="1273" started-at="2020-11-01T23:15:11 IST" finished-at="2020-11-01T23:15:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGetSingleUser -->
+      </class> <!-- com.reqresAPI.RestAssuredAutomation.GetSingleUserDetails -->
+      <class name="com.reqresAPI.RestAssuredAutomation.DeleteUser">
+        <test-method status="PASS" signature="verifyDeleteUser()[pri:0, instance:com.reqresAPI.RestAssuredAutomation.DeleteUser@167fdd33]" name="verifyDeleteUser" duration-ms="1248" started-at="2020-11-01T23:15:15 IST" finished-at="2020-11-01T23:15:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDeleteUser -->
+      </class> <!-- com.reqresAPI.RestAssuredAutomation.DeleteUser -->
+      <class name="com.reqresAPI.RestAssuredAutomation.PutUpdateUserDetails">
+        <test-method status="PASS" signature="verifyPutUserDetails()[pri:0, instance:com.reqresAPI.RestAssuredAutomation.PutUpdateUserDetails@5f282abb]" name="verifyPutUserDetails" duration-ms="1386" started-at="2020-11-01T23:15:14 IST" finished-at="2020-11-01T23:15:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPutUserDetails -->
+      </class> <!-- com.reqresAPI.RestAssuredAutomation.PutUpdateUserDetails -->
+      <class name="com.reqresAPI.RestAssuredAutomation.GetListOfUsers">
+        <test-method status="PASS" signature="verifyGetListUsers()[pri:0, instance:com.reqresAPI.RestAssuredAutomation.GetListOfUsers@394e1a0f]" name="verifyGetListUsers" duration-ms="4618" started-at="2020-11-01T23:15:07 IST" finished-at="2020-11-01T23:15:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGetListUsers -->
+      </class> <!-- com.reqresAPI.RestAssuredAutomation.GetListOfUsers -->
+      <class name="com.reqresAPI.RestAssuredAutomation.PostCreateUser">
+        <test-method status="PASS" signature="verifyPostCreateUser()[pri:0, instance:com.reqresAPI.RestAssuredAutomation.PostCreateUser@1d29cf23]" name="verifyPostCreateUser" duration-ms="1197" started-at="2020-11-01T23:15:12 IST" finished-at="2020-11-01T23:15:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPostCreateUser -->
+      </class> <!-- com.reqresAPI.RestAssuredAutomation.PostCreateUser -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
